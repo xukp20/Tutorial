@@ -1,3 +1,5 @@
 transformers/
 **/DeepSpeedExamples/
 **/data/
+**/*.pth
+**/Pix2Text
